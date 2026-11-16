@@ -1,0 +1,173 @@
+[
+  {
+    "id": "norvane",
+    "name": "Norvane Aerostructures",
+    "hq": "Fictional — Northern Europe",
+    "sector": "Aerospace",
+    "employees": 4200,
+    "global_presence": ["Europe", "North America", "Southeast Asia"],
+    "regional_presence": "None",
+    "contact": { "name": "Ilse Varden", "title": "VP Global Operations" },
+    "description": "Tier 1 supplier of composite fuselage panels and nacelle components for commercial aircraft programmes.",
+    "attending_verified": true,
+    "verification_source": "Exhibitor list + stand number confirmed on event platform",
+    "fit": { "sector_priority": 3, "expansion_signal": 3, "regional_link": 2 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": true, "explicit_interest": true },
+      "summary": "Evaluating a second North American site; agreed to a scouting visit in Q1 with named supplier introductions."
+    }
+  },
+  {
+    "id": "keldmark",
+    "name": "Keldmark Robotics",
+    "hq": "Fictional — Central Europe",
+    "sector": "Industrial automation",
+    "employees": 900,
+    "global_presence": ["Europe", "North America"],
+    "regional_presence": "Distributor only",
+    "contact": { "name": "Tomas Reiland", "title": "Head of Business Development" },
+    "description": "Builds collaborative robot cells for machining and assembly lines.",
+    "attending_verified": true,
+    "verification_source": "Stand confirmed; speaker in Automation Forum",
+    "fit": { "sector_priority": 3, "expansion_signal": 2, "regional_link": 2 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": false, "explicit_interest": true },
+      "summary": "Open to a service hub if anchored on two named regional customers; asked for installed-base data."
+    }
+  },
+  {
+    "id": "solveig",
+    "name": "Solveig Hydrogen Systems",
+    "hq": "Fictional — Scandinavia",
+    "sector": "Hydrogen and clean energy",
+    "employees": 350,
+    "global_presence": ["Europe"],
+    "regional_presence": "None",
+    "contact": { "name": "Maren Holt", "title": "Director, International Expansion" },
+    "description": "Electrolyser stack manufacturer scaling from pilot to series production.",
+    "attending_verified": true,
+    "verification_source": "Exhibitor list",
+    "fit": { "sector_priority": 2, "expansion_signal": 2, "regional_link": 1 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": false, "explicit_interest": false },
+      "summary": "No expansion plans before 2028; keep in periodic contact."
+    }
+  },
+  {
+    "id": "arventa",
+    "name": "Arventa Precision Castings",
+    "hq": "Fictional — Southern Europe",
+    "sector": "Aerospace",
+    "employees": 1600,
+    "global_presence": ["Europe", "North America"],
+    "regional_presence": "Sales office",
+    "contact": { "name": "Paolo Seravin", "title": "Chief Executive Officer" },
+    "description": "Investment-cast turbine and structural parts for engines and landing gear.",
+    "attending_verified": true,
+    "verification_source": "CEO listed on conference agenda",
+    "fit": { "sector_priority": 3, "expansion_signal": 3, "regional_link": 3 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": true, "committed_next_step_with_date": true, "explicit_interest": true },
+      "summary": "Announced a new finishing plant in the region during the expo; supplier-development workshop scheduled."
+    }
+  },
+  {
+    "id": "bramwell",
+    "name": "Bramwell Motion Controls",
+    "hq": "Fictional — United Kingdom",
+    "sector": "Automotive supply chain",
+    "employees": 2800,
+    "global_presence": ["Europe", "North America", "East Asia"],
+    "regional_presence": "None",
+    "contact": { "name": "Harriet Coyle", "title": "VP Strategy" },
+    "description": "Electric actuators and drive units for vehicle and industrial platforms.",
+    "attending_verified": true,
+    "verification_source": "Exhibitor list + press release",
+    "fit": { "sector_priority": 3, "expansion_signal": 2, "regional_link": 2 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": false, "explicit_interest": true },
+      "summary": "Interested if OEM customers in the region confirm nearshoring volumes; follow-up webinar proposed."
+    }
+  },
+  {
+    "id": "tessaro",
+    "name": "Tessaro Composites",
+    "hq": "Fictional — Western Europe",
+    "sector": "Advanced manufacturing",
+    "employees": 600,
+    "global_presence": ["Europe"],
+    "regional_presence": "None",
+    "contact": { "name": "Lucien Marchet", "title": "Managing Director" },
+    "description": "Thermoplastic composite parts for mobility and industrial equipment.",
+    "attending_verified": true,
+    "verification_source": "Stand confirmed",
+    "fit": { "sector_priority": 2, "expansion_signal": 1, "regional_link": 1 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": false, "explicit_interest": false },
+      "summary": "Long-term reference; open channel for re-engagement next year."
+    }
+  },
+  {
+    "id": "quillon",
+    "name": "Quillon Dynamics",
+    "hq": "Fictional — North America",
+    "sector": "Aerospace",
+    "employees": 7400,
+    "global_presence": ["North America", "Europe", "South America"],
+    "regional_presence": "Two plants",
+    "contact": { "name": "Dana Whitcombe", "title": "SVP Supply Chain" },
+    "description": "Aircraft systems integrator with existing operations in the region.",
+    "attending_verified": true,
+    "verification_source": "Pavilion meeting confirmed by organiser",
+    "fit": { "sector_priority": 3, "expansion_signal": 3, "regional_link": 3 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": true, "explicit_interest": true },
+      "summary": "Committed to a local-supplier day with a defined date and supplier shortlist."
+    }
+  },
+  {
+    "id": "veltrix",
+    "name": "Veltrix Sensor Labs",
+    "hq": "Fictional — East Asia",
+    "sector": "Industrial automation",
+    "employees": 220,
+    "global_presence": ["East Asia"],
+    "regional_presence": "None",
+    "contact": { "name": "Ren Ashikawa", "title": "Overseas Sales Manager" },
+    "description": "Machine-vision sensors for quality inspection.",
+    "attending_verified": false,
+    "verification_source": "Not on final exhibitor list — walk-in contact",
+    "fit": { "sector_priority": 2, "expansion_signal": 1, "regional_link": 1 },
+    "engagement": {
+      "held": false,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": false, "explicit_interest": false },
+      "summary": "Meeting did not take place; brochure exchanged at walk-in."
+    }
+  },
+  {
+    "id": "harrowgate",
+    "name": "Harrowgate Forge Works",
+    "hq": "Fictional — United Kingdom",
+    "sector": "Advanced manufacturing",
+    "employees": 1100,
+    "global_presence": ["Europe", "North America"],
+    "regional_presence": "None",
+    "contact": { "name": "Owen Prescott", "title": "Director of Growth" },
+    "description": "Closed-die forgings for aerospace and energy.",
+    "attending_verified": true,
+    "verification_source": "Exhibitor list",
+    "fit": { "sector_priority": 2, "expansion_signal": 2, "regional_link": 1 },
+    "engagement": {
+      "held": true,
+      "signals": { "announced_investment": false, "committed_next_step_with_date": false, "explicit_interest": false },
+      "summary": "Handoff to cluster association for periodic follow-up."
+    }
+  }
+]

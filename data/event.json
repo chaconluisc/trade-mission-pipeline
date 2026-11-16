@@ -1,0 +1,23 @@
+{
+  "event": "Demo Industrial Expo 2026",
+  "city": "Port Aldren",
+  "dates": "2026-09-14 / 2026-09-17",
+  "delegation": "Valdera Regional Investment Office",
+  "region": {
+    "name": "Region of Valdera",
+    "value_proposition": [
+      "Established advanced-manufacturing base with a large skilled technical workforce",
+      "Integrated into cross-border supply chains with two land ports of entry",
+      "Aerospace and automotive clusters with Tier 1 suppliers already installed",
+      "Regional incentives and serviced industrial parks for new investment"
+    ]
+  },
+  "priority_sectors": [
+    "Aerospace",
+    "Industrial automation",
+    "Automotive supply chain",
+    "Hydrogen and clean energy",
+    "Advanced manufacturing"
+  ],
+  "_note": "All names, places and people in this repository are fictional."
+}
