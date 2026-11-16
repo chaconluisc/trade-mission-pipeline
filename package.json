@@ -1,0 +1,21 @@
+{
+  "name": "trade-mission-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-assisted trade-mission pipeline demo: target research, company profiles, outreach drafts, engagement classification and scripted DOCX mission reports. Synthetic data only.",
+  "license": "MIT",
+  "scripts": {
+    "targets": "node scripts/01_target_list.js",
+    "fichas": "node scripts/02_fichas.js",
+    "outreach": "node scripts/03_outreach.js",
+    "report": "node scripts/04_report.js",
+    "build": "node scripts/01_target_list.js && node scripts/02_fichas.js && node scripts/03_outreach.js && node scripts/04_report.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "docx": "^9.15.4"
+  }
+}
